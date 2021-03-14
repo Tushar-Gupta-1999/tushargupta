@@ -1,0 +1,118 @@
+@media(max-width: 768px){
+    *{
+        text-align: center;
+    }
+}
+
+body{
+    color: #F1E3F3;
+}
+
+h1,h2,h3{
+    font-family: 'Roboto-bold', sans-serif;
+    font-size: 3rem;
+    margin-bottom: 4%;
+    line-height: 1.55;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+p{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1.2rem;
+}
+
+hr{
+    margin: 0;
+}
+
+a{
+    color: #F1E3F3;
+}
+
+.title-h{
+    margin-bottom: 0;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+/* NAVIGATION */
+.navbar{
+    background-color: #21897E;
+    font-family: 'Roboto-bold', sans-serif;
+}
+
+.nav-link{
+    margin: 0 1%;
+}
+
+.navbar-nav{
+    margin: 0 2% 0 auto;
+}
+
+/* TITLE */
+#title{
+    background-color: #69D1C5;
+    padding: 8% 15% 5%;
+}
+
+.title-img{
+    width: 60%;
+    margin: 0 10% 10%;
+}
+
+.title-p{
+    font-size: 1.5rem;
+}
+
+
+/* ABOUT */
+
+#about{
+    padding: 5% 17%;
+    color: black;
+}
+
+.profile-img{
+    width: 60%;
+    border-radius: 100%;
+    background-color: #C1B8C8;
+    margin: 0 10% 10%;
+}
+
+/* PROJECTS */
+
+#projects{
+    background-color: #69D1C5;
+}
+
+.carousel-item{
+    padding: 5% 15%;
+}
+
+
+/* TOOLS */
+#tools{
+    color: black;
+    padding: 5% 17%;
+}
+
+.tool-img{
+    text-align: center;
+    margin: 5% 0;
+}
+
+/* FOOTER */
+
+#footer{
+    background-color: #3BA99C;
+    padding: 5% 17%;
+    text-align: center;
+}
+
+.bottom-r{
+    padding-left: 45%;
+    padding-bottom: 2%;
+}
